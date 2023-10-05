@@ -1,14 +1,16 @@
 # Fdb version 4
-["xdvipdfmx"] 1696522571 "cv.xdv" "cv.pdf" "cv" 1696522572 0
-  "cv.xdv" 1696522571 121440 dd32565051b4dd8c9bb0a1b1a8264db2 "xelatex"
+["xdvipdfmx"] 1696523755 "cv.xdv" "cv.pdf" "cv" 1696523755 0
+  "cv.xdv" 1696523755 71680 59dada51591f5585bffa65aae87b49a2 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1696522568 "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" "cv.xdv" "cv" 1696522572 0
+["xelatex"] 1696523752 "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" "cv.xdv" "cv" 1696523755 0
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
+  "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm" 1136768653 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
+  "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1136768653 1524 d89e2d087a9828407a196f428428ef4a ""
   "/home/sena/.TinyTeX/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/home/sena/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/home/sena/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -171,19 +173,14 @@
   "/home/sena/.TinyTeX/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
   "/home/sena/.TinyTeX/texmf-var/web2c/xetex/xelatex.fmt" 1696216420 9020683 a334c4693c3475a6b2f89a793c165b9f ""
   "/home/sena/.TinyTeX/texmf.cnf" 1696216393 637 edd806fb06a89761a6034e1968af9017 ""
-  "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" 1696522328 3660 c86219fd7e97c6819aba40812a1bd0ee ""
+  "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" 1696523681 3657 35d40a88c9f12e37e7dbea097ebad94c ""
   "awesome-cv.cls" 1696258405 29600 8d40609025f93862de82a3e783397186 ""
-  "cv.aux" 1696522571 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
-  "cv.tex" 1696522328 3660 c86219fd7e97c6819aba40812a1bd0ee ""
-  "cv/certificates.tex" 1696258405 1736 78629a6b1160748ad70169f291b46285 ""
-  "cv/committees.tex" 1696258405 1493 3207d2daaf27d324622b490731b6099a ""
+  "cv.aux" 1696523755 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "cv.tex" 1696523681 3657 35d40a88c9f12e37e7dbea097ebad94c ""
   "cv/education.tex" 1696522567 1499 05ee9eb2fe219ae69195d21f4e46824a ""
   "cv/experience.tex" 1696522327 5557 ce3adc1dc51b52688196667daaf1a8c6 ""
-  "cv/extracurricular.tex" 1696258405 3751 abff47e3fd0b9900a99640dbeb2c645d ""
-  "cv/honors.tex" 1696258405 5365 f44ecf4f95d20bf20dd74af0e49d0e04 ""
-  "cv/presentation.tex" 1696258405 1896 75fcd6aede910958ee2c419898f585d5 ""
-  "cv/skills.tex" 1696258405 1237 1b4755a267be39ee61ead68d5ee98a55 ""
-  "cv/writing.tex" 1696258405 1226 6b343a618281514c2b478b942ff9a477 ""
+  "cv/honors.tex" 1696523752 3841 d9a4f48b3542f76aecaa1f73629a85a5 ""
+  "cv/skills.tex" 1696522963 1347 224f84ab73619cbd54f47fa292796b39 ""
   (generated)
   "cv.aux"
   "cv.log"
