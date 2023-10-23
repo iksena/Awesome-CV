@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1696523755 "cv.xdv" "cv.pdf" "cv" 1696523755 0
-  "cv.xdv" 1696523755 71680 59dada51591f5585bffa65aae87b49a2 "xelatex"
+["xdvipdfmx"] 1696562013 "cv.xdv" "cv.pdf" "cv" 1696562013 0
+  "cv.xdv" 1696562013 71680 486e5034ba20b00654d33b474a3a3b3b "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1696523752 "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" "cv.xdv" "cv" 1696523755 0
+["xelatex"] 1696562009 "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" "cv.xdv" "cv" 1696562013 0
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/home/sena/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
@@ -175,10 +175,10 @@
   "/home/sena/.TinyTeX/texmf.cnf" 1696216393 637 edd806fb06a89761a6034e1968af9017 ""
   "/media/sena/B894E81394E7D1C4/Users/v00028130/playground/Awesome-CV/examples/cv.tex" 1696523681 3657 35d40a88c9f12e37e7dbea097ebad94c ""
   "awesome-cv.cls" 1696258405 29600 8d40609025f93862de82a3e783397186 ""
-  "cv.aux" 1696523755 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "cv.aux" 1696562013 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
   "cv.tex" 1696523681 3657 35d40a88c9f12e37e7dbea097ebad94c ""
   "cv/education.tex" 1696522567 1499 05ee9eb2fe219ae69195d21f4e46824a ""
-  "cv/experience.tex" 1696522327 5557 ce3adc1dc51b52688196667daaf1a8c6 ""
+  "cv/experience.tex" 1696561992 5559 0d9bb0f9bd0078885230e1a1d968c455 ""
   "cv/honors.tex" 1696523752 3841 d9a4f48b3542f76aecaa1f73629a85a5 ""
   "cv/skills.tex" 1696522963 1347 224f84ab73619cbd54f47fa292796b39 ""
   (generated)
